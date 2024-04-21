@@ -5,11 +5,6 @@ GitOps with Terraform, AWS, and Spacelift
 # AWS IAM Setup
 New IAM User: spacelift-iac
 
-Access key
-AKIAZ5IGOV2ML473TNHW
-
-Secret access key
-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
 
 owner ID
 099720109477
